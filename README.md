@@ -10,6 +10,7 @@
 [<img align="left" alt="Systems Mystery | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
 <br />
 
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,6 +22,9 @@
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <br />
 
+## Github Stats
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.rj175.vercel.app//api?username=rj175&show_icons=true&hide_border=true" />
+<br />
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
