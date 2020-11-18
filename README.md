@@ -23,7 +23,8 @@
 <br />
 
 ## Github Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.rj175.vercel.app//api?username=rj175&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.rj175.vercel.app/api?username=rj175&show_icons=true&hide_border=true" />
+<br />
 <br />
 
 ## Latest Blog Posts:
