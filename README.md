@@ -25,6 +25,7 @@
 ## Github Stats
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.rj175.vercel.app//api?username=rj175&show_icons=true&hide_border=true" />
 <br />
+
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Home Assistant: Easy Automated Backups to S3](https://blog.systemsmystery.tech/home-assistant-easy-automated-backups-to-s3/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-easy-automated-backups-to-s3)
