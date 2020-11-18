@@ -23,6 +23,10 @@
 
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant: Easy Automated Backups to S3](https://blog.systemsmystery.tech/home-assistant-easy-automated-backups-to-s3/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-easy-automated-backups-to-s3)
+- [WordPress On AWS Lightsail Made Easy: Part 2 – Networking, DNS and SSL](https://blog.systemsmystery.tech/wordpress-lightsail-networking-dns-ssl/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-lightsail-networking-dns-ssl)
+- [WordPress On AWS Lightsail: Part 1 – Lightsail](https://blog.systemsmystery.tech/wordpress-aws-lightsail-part-1-lightsail/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-aws-lightsail-part-1-lightsail)
+- [Why I Chose AWS Lightsail For My WordPress Blog](https://blog.systemsmystery.tech/why-i-chose-lightsail-over-roll-your-own/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-chose-lightsail-over-roll-your-own)
 <!-- BLOG-POST-LIST:END -->
 
 ## Thanks
