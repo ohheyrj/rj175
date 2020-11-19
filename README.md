@@ -8,6 +8,7 @@
 ## Connect with me:
 
 [<img align="left" alt="Systems Mystery | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
+[<img align="left" alt="Richard Annand | Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
 <br />
 
 
@@ -23,9 +24,7 @@
 <br />
 
 ## Github Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.rj175.vercel.app/api?username=rj175&show_icons=true&hide_border=true" />
-<br />
-<br />
+![Github Stats](https://github-readme-stats.rj175.vercel.app/api?username=rj175&show_icons=true&hide_border=true)
 
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -39,4 +38,5 @@
 Readme created with inspiration from [codeSTACKr][codeSTACKr].
 
 [blog]: https://blog.systemsmystery.tech
+[keybase]: https://keybase.io/richard_annand
 [codeSTACKr]: https://github.com/codeSTACKr
