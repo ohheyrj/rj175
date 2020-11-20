@@ -34,6 +34,12 @@
 
 ## Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+2. 💪 Opened PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+3. 🎉 Merged PR [#10](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/10) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+4. 💪 Opened PR [#10](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/10) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+5. 🎉 Merged PR [#9](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/9) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+<!--END_SECTION:activity-->
 
 <br />
 
