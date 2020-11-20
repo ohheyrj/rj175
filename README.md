@@ -2,7 +2,7 @@
 
 Like what I do?
 
-<a href="https://www.buymeacoffee.com/systemsmystery" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/systemsmystery" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 <br />
 
 ## I'm a Developer and AWS Cloud Engineer
