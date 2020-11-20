@@ -1,4 +1,4 @@
-#### Hi there, I'm Richard - aka [systemsMystery][blog] :wave:
+#### Hi there, I'm Richard - aka *rj175* :wave:
 
 ## I'm a Developer and AWS Cloud Engineer
 
@@ -7,10 +7,17 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Systems Mystery | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
+### Personally
+
 [<img align="left" alt="Richard Annand | Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
+[<img align="left" alt="Richard Annand | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Richard Annand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
+### SystemsMystery
+[<img align="left" alt="Systems Mystery | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
+[<img align="left" alt="SystemsMystery | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
 
 ## Languages and Tools:
 
@@ -23,6 +30,12 @@
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <img align="left" alt="Github Actions" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" />
 <img align="left" alt="Circle CI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/circleci.svg" />
+<br />
+
+## Github Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 <br />
 
 ## Github Stats
@@ -41,4 +54,7 @@ Readme created with inspiration from [codeSTACKr][codeSTACKr].
 
 [blog]: https://blog.systemsmystery.tech
 [keybase]: https://keybase.io/richard_annand
+[twitter]: https://twitter.com/rj175
+[twitter_sm]: https://twitter.com/SystemsMystery
+[linkedin]: https://www.linkedin.com/in/richardannand/
 [codeSTACKr]: https://github.com/codeSTACKr
