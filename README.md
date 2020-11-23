@@ -39,11 +39,11 @@ Like what I do?
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-2. 💪 Opened PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-3. 🎉 Merged PR [#10](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/10) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-4. 💪 Opened PR [#10](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/10) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-5. 🎉 Merged PR [#9](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/9) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+1. ❗️ Opened issue [#2](https://github.com/rj175/terraform-aws-office-365-route53-records/issues/2) in [rj175/terraform-aws-office-365-route53-records](https://github.com/rj175/terraform-aws-office-365-route53-records)
+2. 💪 Opened PR [#1](https://github.com/rj175/terraform-aws-office-365-route53-records/pull/1) in [rj175/terraform-aws-office-365-route53-records](https://github.com/rj175/terraform-aws-office-365-route53-records)
+3. 🎉 Merged PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+4. 💪 Opened PR [#11](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/11) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+5. 🎉 Merged PR [#10](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/10) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
 <!--END_SECTION:activity-->
 
 <br />
