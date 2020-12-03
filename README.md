@@ -53,6 +53,7 @@ Like what I do?
 
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Project Terraform: Part 1 – Building Great Modules](https://blog.systemsmystery.tech/project-terraform-making-great-modules/?utm_source=rss&utm_medium=rss&utm_campaign=project-terraform-making-great-modules)
 - [Home Assistant: Easy Automated Backups to S3](https://blog.systemsmystery.tech/home-assistant-easy-automated-backups-to-s3/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-easy-automated-backups-to-s3)
 - [WordPress On AWS Lightsail Made Easy: Part 2 – Networking, DNS and SSL](https://blog.systemsmystery.tech/wordpress-lightsail-networking-dns-ssl/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-lightsail-networking-dns-ssl)
 - [WordPress On AWS Lightsail: Part 1 – Lightsail](https://blog.systemsmystery.tech/wordpress-aws-lightsail-part-1-lightsail/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-aws-lightsail-part-1-lightsail)
