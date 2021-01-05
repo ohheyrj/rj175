@@ -39,11 +39,11 @@ Like what I do?
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-2. 🎉 Merged PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-3. 💪 Opened PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-4. 🎉 Merged PR [#4](https://github.com/rj175/terraform-aws-office-365-route53-records/pull/4) in [rj175/terraform-aws-office-365-route53-records](https://github.com/rj175/terraform-aws-office-365-route53-records)
-5. 💪 Opened PR [#4](https://github.com/rj175/terraform-aws-office-365-route53-records/pull/4) in [rj175/terraform-aws-office-365-route53-records](https://github.com/rj175/terraform-aws-office-365-route53-records)
+1. ❗️ Closed issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+2. 🗣 Commented on [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+3. ❗️ Opened issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+4. 🎉 Merged PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+5. 💪 Opened PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
 <!--END_SECTION:activity-->
 
 <br />
