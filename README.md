@@ -39,11 +39,11 @@ Like what I do?
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-2. 🗣 Commented on [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-3. ❗️ Opened issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-4. 🎉 Merged PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
-5. 💪 Opened PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
+1. 🗣 Commented on [#330](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/330) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+2. ❗️ Closed issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+3. 🗣 Commented on [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+4. ❗️ Opened issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+5. 🎉 Merged PR [#12](https://github.com/rj175/terraform-aws-s3-backup-bucket/pull/12) in [rj175/terraform-aws-s3-backup-bucket](https://github.com/rj175/terraform-aws-s3-backup-bucket)
 <!--END_SECTION:activity-->
 
 <br />
