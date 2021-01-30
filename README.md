@@ -39,11 +39,11 @@ Like what I do?
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rj175/home-assistant-aws-codepipeline/pull/1) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
-2. 💪 Opened PR [#1](https://github.com/rj175/home-assistant-aws-codepipeline/pull/1) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
-3. 🗣 Commented on [#330](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/330) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-4. ❗️ Closed issue [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-5. 🗣 Commented on [#385](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/385) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+1. 🎉 Merged PR [#2](https://github.com/rj175/home-assistant-aws-codepipeline/pull/2) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
+2. 💪 Opened PR [#2](https://github.com/rj175/home-assistant-aws-codepipeline/pull/2) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
+3. 🎉 Merged PR [#1](https://github.com/rj175/home-assistant-aws-codepipeline/pull/1) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
+4. 💪 Opened PR [#1](https://github.com/rj175/home-assistant-aws-codepipeline/pull/1) in [rj175/home-assistant-aws-codepipeline](https://github.com/rj175/home-assistant-aws-codepipeline)
+5. 🗣 Commented on [#330](https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/330) in [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
 <!--END_SECTION:activity-->
 
 <br />
