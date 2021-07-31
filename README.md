@@ -38,13 +38,9 @@ Like what I do?
 <br />
 
 ## Github Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rj175/pi-status-board/pull/3) in [rj175/pi-status-board](https://github.com/rj175/pi-status-board)
-2. 💪 Opened PR [#3](https://github.com/rj175/pi-status-board/pull/3) in [rj175/pi-status-board](https://github.com/rj175/pi-status-board)
-3. 🎉 Merged PR [#2](https://github.com/rj175/pi-status-board/pull/2) in [rj175/pi-status-board](https://github.com/rj175/pi-status-board)
-4. 💪 Opened PR [#2](https://github.com/rj175/pi-status-board/pull/2) in [rj175/pi-status-board](https://github.com/rj175/pi-status-board)
-5. 🎉 Merged PR [#1](https://github.com/rj175/pi-status-board/pull/1) in [rj175/pi-status-board](https://github.com/rj175/pi-status-board)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <br />
 
