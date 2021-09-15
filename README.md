@@ -39,8 +39,8 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [systemsmystery/sm-formik-form-fields](https://github.com/systemsmystery/sm-formik-form-fields)
-2. 📔 Created new repository [rj175/blog_systemsmystery_tech_dockerfile](https://github.com/rj175/blog_systemsmystery_tech_dockerfile)
+1. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. 📔 Created new repository [systemsmystery/sm-formik-form-fields](https://github.com/systemsmystery/sm-formik-form-fields)
 3. 📔 Created new repository [rj175/packer-postgresql-10-ami](https://github.com/rj175/packer-postgresql-10-ami)
 
 4. 📔 Created new repository [rj175/packer-named-ami](https://github.com/rj175/packer-named-ami)
