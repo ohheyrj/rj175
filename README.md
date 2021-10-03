@@ -39,12 +39,12 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/gdrapp/hass-addons/issues/9) in [gdrapp/hass-addons](https://github.com/gdrapp/hass-addons)
-2. 💪 Opened PR [#144](https://github.com/mdegat01/addon-promtail/pull/144) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
-3. ❗️ Opened issue [#143](https://github.com/mdegat01/addon-promtail/issues/143) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
+1. 🔱 Forked [rj175/hass-addons](https://github.com/rj175/hass-addons) from [gdrapp/hass-addons](https://github.com/gdrapp/hass-addons)
+2. ❗️ Opened issue [#9](https://github.com/gdrapp/hass-addons/issues/9) in [gdrapp/hass-addons](https://github.com/gdrapp/hass-addons)
+3. 💪 Opened PR [#144](https://github.com/mdegat01/addon-promtail/pull/144) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
 
-4. 🔱 Forked [rj175/addon-promtail](https://github.com/rj175/addon-promtail) from [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
-5. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. ❗️ Opened issue [#143](https://github.com/mdegat01/addon-promtail/issues/143) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
+5. 🔱 Forked [rj175/addon-promtail](https://github.com/rj175/addon-promtail) from [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
 
