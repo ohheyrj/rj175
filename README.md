@@ -39,12 +39,12 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-2. 🔱 Forked [rj175/hass-addons](https://github.com/rj175/hass-addons) from [gdrapp/hass-addons](https://github.com/gdrapp/hass-addons)
-3. ❗️ Opened issue [#9](https://github.com/gdrapp/hass-addons/issues/9) in [gdrapp/hass-addons](https://github.com/gdrapp/hass-addons)
+1. ❗️ Opened issue [#11](https://github.com/rj175/home-assistant-config/issues/11) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+2. ❗️ Opened issue [#10](https://github.com/rj175/home-assistant-config/issues/10) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+3. ❗️ Opened issue [#9](https://github.com/rj175/home-assistant-config/issues/9) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 
-4. 💪 Opened PR [#144](https://github.com/mdegat01/addon-promtail/pull/144) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
-5. ❗️ Opened issue [#143](https://github.com/mdegat01/addon-promtail/issues/143) in [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail)
+4. ❗️ Opened issue [#8](https://github.com/rj175/home-assistant-config/issues/8) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+5. ❗️ Opened issue [#7](https://github.com/rj175/home-assistant-config/issues/7) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
 
