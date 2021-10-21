@@ -39,12 +39,12 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/rj175/home-assistant-config/issues/11) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-2. ❗️ Opened issue [#10](https://github.com/rj175/home-assistant-config/issues/10) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-3. ❗️ Opened issue [#9](https://github.com/rj175/home-assistant-config/issues/9) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+1. ❗️ Opened issue [#12](https://github.com/rj175/home-assistant-config/issues/12) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+2. ❗️ Opened issue [#11](https://github.com/rj175/home-assistant-config/issues/11) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+3. ❗️ Opened issue [#10](https://github.com/rj175/home-assistant-config/issues/10) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 
-4. ❗️ Opened issue [#8](https://github.com/rj175/home-assistant-config/issues/8) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-5. ❗️ Opened issue [#7](https://github.com/rj175/home-assistant-config/issues/7) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+4. ❗️ Opened issue [#9](https://github.com/rj175/home-assistant-config/issues/9) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+5. ❗️ Opened issue [#8](https://github.com/rj175/home-assistant-config/issues/8) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
 
