@@ -39,12 +39,12 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#31](https://github.com/rj175/home-assistant-config/pull/31) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-2. ✔️ Closed issue [#11](https://github.com/rj175/home-assistant-config/issues/11) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-3. 💪 Opened PR [#31](https://github.com/rj175/home-assistant-config/pull/31) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+1. 🎉 Merged PR [#32](https://github.com/rj175/home-assistant-config/pull/32) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+2. 💪 Opened PR [#32](https://github.com/rj175/home-assistant-config/pull/32) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+3. 🎉 Merged PR [#31](https://github.com/rj175/home-assistant-config/pull/31) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 
-4. ✔️ Closed issue [#1](https://github.com/rj175/home-assistant-config/issues/1) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-5. 🎉 Merged PR [#30](https://github.com/rj175/home-assistant-config/pull/30) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+4. ✔️ Closed issue [#11](https://github.com/rj175/home-assistant-config/issues/11) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+5. 💪 Opened PR [#31](https://github.com/rj175/home-assistant-config/pull/31) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
 
