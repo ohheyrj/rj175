@@ -39,12 +39,12 @@ Like what I do?
 
 ## Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#61](https://github.com/rj175/home-assistant-config/pull/61) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-2. 💪 Opened PR [#61](https://github.com/rj175/home-assistant-config/pull/61) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-3. 🎉 Merged PR [#60](https://github.com/rj175/home-assistant-config/pull/60) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+1. 📔 Created new repository [rj175/advent-of-code](https://github.com/rj175/advent-of-code)
+2. 🎉 Merged PR [#61](https://github.com/rj175/home-assistant-config/pull/61) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+3. 💪 Opened PR [#61](https://github.com/rj175/home-assistant-config/pull/61) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 
-4. 💪 Opened PR [#60](https://github.com/rj175/home-assistant-config/pull/60) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
-5. 🎉 Merged PR [#59](https://github.com/rj175/home-assistant-config/pull/59) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+4. 🎉 Merged PR [#60](https://github.com/rj175/home-assistant-config/pull/60) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
+5. 💪 Opened PR [#60](https://github.com/rj175/home-assistant-config/pull/60) in [rj175/home-assistant-config](https://github.com/rj175/home-assistant-config)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
 
